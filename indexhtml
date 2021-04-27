@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title> Landing page </title>
-		<link rel="stylesheet" href="css/css-m1.css" />
+		<link rel="stylesheet" href="css-m1.css" />
 	</head>
 	<body>
 	<h1>Landing page</h1></br>	
@@ -28,9 +28,9 @@
 	   - Janvier 2017 : stage d’observation à Aximum Produits de Marquage</h3></br>
 	
 	<h2>Compétences</h2>
-	<h3>HTML <img src="css/images/etoiles/3_etoiles.png" height="5%" width="5%"></img>  CSS <img src="css/images/etoiles/2_etoiles.png" height="5%" width="5%"> WordPress <img src="css/images/etoiles/3_etoiles.png" height="5%" width="5%"></br>
-	   Adobe Illustrator <img src="css/images/etoiles/3_etoiles.png" height="5%" width="5%"> Adobe XD <img src="css/images/etoiles/3_etoiles.png" height="5%" width="5%"> Adobe Indesign <img src="css/images/etoiles/3_etoiles.png" height="5%" width="5%"></br>
-	   GitHub <img src="css/images/etoiles/1_etoiles.png" height="5%" width="5%"> Anglais <img src="css/images/etoiles/4_etoiles.png" height="5%" width="5%"> Espagnol <img src="css/images/etoiles/2_etoiles.png" height="5%" width="5%"></h3></br>
+	<h3>HTML <img src="3_etoiles.png" height="5%" width="5%"></img>  CSS <img src="2_etoiles.png" height="5%" width="5%"> WordPress <img src="3_etoiles.png" height="5%" width="5%"></br>
+	   Adobe Illustrator <img src="3_etoiles.png" height="5%" width="5%"> Adobe XD <img src="3_etoiles.png" height="5%" width="5%"> Adobe Indesign <img src="3_etoiles.png" height="5%" width="5%"></br>
+	   GitHub <img src="1_etoiles.png" height="5%" width="5%"> Anglais <img src="4_etoiles.png" height="5%" width="5%"> Espagnol <img src="2_etoiles.png" height="5%" width="5%"></h3></br>
 	
 	<h2>Projets d'école</h2>
 	<h3>Faire sa marque personnelle</br>
