@@ -1,0 +1,69 @@
+header
+{
+	display: outline-block;
+	padding: 1px;
+	background: #dd3a3c;
+	height: 10%;
+	width: auto;
+	text-align: center;
+}
+body
+{
+	background-color: #44b5da;
+	width: auto;
+	text-align: center-left;
+	font-family: Arial;
+}
+
+.button /** bouton debut **/
+{ 
+  display: outline-block;
+  padding: 1em;
+  background: white;
+  color: black;
+  border-radius: 4px;
+  width: 250px;
+  font-family: "Calibri Regular";
+  font-size: 12pt;
+}
+.a 
+{
+  display: outline-block;
+  padding: 1em;
+  background: white;
+  color: black;
+  border-radius: 4px;
+  width: 250px;
+  font-family: "Calibri Regular";
+  font-size: 12pt;
+}
+.button:hover 
+{
+  background-color: #e9c311;
+  color: white;
+}
+.a:hover 
+{
+  background-color: #e9c311;
+  color: white;
+} /** bouton fin **/
+
+.icone /** icone debut **/
+{ 
+  display: inline-block;
+  background: #dd3a3c;
+  color: black;
+  border-radius: 4px;
+  width: auto;
+  height: auto;
+  border-color: #dd3a3c;
+} /** icone fin **/
+.margin
+{
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.download
+{
+	text-align: center;
+}
